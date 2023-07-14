@@ -44,7 +44,6 @@
     padding: 10px;
     border-radius: 10px;
     background: #FFFFFF;
-    /* margin: 20px 0; */
     text-align: center;
 
 }
@@ -61,7 +60,7 @@
     text-align: center;
     font-size: 13px;
     font-weight: 400;
-    /* line-height: 30px; */
+
     height: 50px;
     width: 300px;
     margin: auto;
@@ -70,15 +69,8 @@
 .display-style {
     display: flex;
     justify-content: space-evenly;
-    /* width: 120px;
-    height: 487px; */
     padding: 10px;
 }
-
-/* 
-.display {
-    padding-right: 0;
-} */
 
 .ful {
     text-align: center;
@@ -87,16 +79,13 @@
 .img-style {
     width: 210px;
     height: 300px;
-    /* flex-shrink: 0; */
     border-radius: 300px 300px 0px 0px;
     background: rgba(167, 33, 98, 0.15);
-    /* margin-left: 0; */
 }
 
 .img-style1 {
     width: 210px;
     height: 300px;
-    /* flex-shrink: 0; */
     border-radius: 300px 300px 0px 0px;
     background: rgba(5, 151, 160, 0.15);
 }
@@ -104,7 +93,6 @@
 .img-style2 {
     width: 210px;
     height: 300px;
-    /* flex-shrink: 0; */
     border-radius: 300px 300px 0px 0px;
     background: rgba(71, 125, 17, 0.15);
 }
@@ -125,7 +113,6 @@
 
     width: 44px;
     height: 44px;
-    /* margin-top: 40px; */
     margin: 20px;
     padding: 0px;
 }
@@ -135,8 +122,6 @@
     text-align: center;
     font-size: 10px;
     font-weight: 600;
-    /* line-height: 3px; */
-    /* margin-top: 0px; */
 }
 
 /* 4rth */
@@ -144,8 +129,6 @@
     background-color: rgba(229, 84, 115, 0.05);
     justify-content: space-between;
     display: flex;
-    /* padding: 150px 200px;
-   margin-top: 50px; */
     margin: 50px 0px;
     padding: 50px 0px;
 }
@@ -156,7 +139,6 @@
 
 .OFF .button-primary {
     text-align: center;
-    /* padding-top: 800px; */
 }
 
 .f8 {
@@ -192,8 +174,6 @@
     color: rgba(39, 39, 39, 0.60);
     text-align: center;
     font-size: 16px;
-    /* font-weight: 400;
-line-height: 30px; */
     margin: 0px 350px 15px 350px;
 }
 
@@ -209,7 +189,6 @@ line-height: 30px; */
     width: 200px;
     height: 250px;
     margin-left: 20px;
-    /* margin-top: 0px; */
 }
 
 /* 6th */
@@ -224,7 +203,6 @@ line-height: 30px; */
     color: #272727;
     text-align: center;
     font-size: 40px;
-    /* font-weight: 800; */
     padding-top: 80px;
 }
 
@@ -234,7 +212,7 @@ line-height: 30px; */
     font-size: 18px;
     font-weight: 400;
     line-height: 30px;
-    /* margin-bottom: 500px; */
+    
 }
 
 .but {
@@ -282,7 +260,7 @@ text-align: center;
 .i-vdo{
     height: 400px;
     width: 700px;
-    /* margin: 300px; */
+  
 }
 .side-de{
     padding-left: 150px;
