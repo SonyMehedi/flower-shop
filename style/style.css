@@ -44,7 +44,7 @@
     padding: 10px;
     border-radius: 10px;
     background: #FFFFFF;
-    margin: 100 0;
+    /* margin: 20px 0; */
     text-align: center;
 
 }
@@ -69,15 +69,15 @@
 
 .display-style {
     display: flex;
-    justify-content: space-between;
+    justify-content: space-evenly;
     /* width: 120px;
     height: 487px; */
-    padding: 100px;
+    padding: 10px;
 }
 
-/* .display {
-    background-color: #ef0c0c;
-    margin-right: 0px;
+/* 
+.display {
+    padding-right: 0;
 } */
 
 .ful {
@@ -90,6 +90,7 @@
     /* flex-shrink: 0; */
     border-radius: 300px 300px 0px 0px;
     background: rgba(167, 33, 98, 0.15);
+    /* margin-left: 0; */
 }
 
 .img-style1 {
@@ -106,4 +107,175 @@
     /* flex-shrink: 0; */
     border-radius: 300px 300px 0px 0px;
     background: rgba(71, 125, 17, 0.15);
+}
+
+/* 3rd...sec */
+.CC {
+    display: flex;
+    justify-content: space-between;
+    width: 700px;
+    height: 100px;
+    background: rgba(39, 39, 39, 0.05);
+    margin: 25px auto;
+    padding: 20px 100px;
+
+}
+
+.style {
+
+    width: 44px;
+    height: 44px;
+    /* margin-top: 40px; */
+    margin: 20px;
+    padding: 0px;
+}
+
+.dic {
+    color: rgba(39, 39, 39, 0.80);
+    text-align: center;
+    font-size: 10px;
+    font-weight: 600;
+    /* line-height: 3px; */
+    /* margin-top: 0px; */
+}
+
+/* 4rth */
+.dis {
+    background-color: rgba(229, 84, 115, 0.05);
+    justify-content: space-between;
+    display: flex;
+    /* padding: 150px 200px;
+   margin-top: 50px; */
+    margin: 50px 0px;
+    padding: 50px 0px;
+}
+
+.color {
+    color: #E55473;
+}
+
+.OFF .button-primary {
+    text-align: center;
+    /* padding-top: 800px; */
+}
+
+.f8 {
+    padding: 30px 100px;
+}
+
+.hot-deal {
+    padding: 150px 20px 200px 250px;
+}
+
+#Sign-up {
+    margin-left: 120px;
+}
+
+#dis-id {
+    margin-left: 50px;
+}
+
+#off-id {
+    text-align: center;
+    margin-right: 50px;
+}
+
+/* 5th */
+.instra {
+    text-align: center;
+    color: #272727;
+    font-size: 40px;
+    margin-bottom: 2px;
+}
+
+.instra-p {
+    color: rgba(39, 39, 39, 0.60);
+    text-align: center;
+    font-size: 16px;
+    /* font-weight: 400;
+line-height: 30px; */
+    margin: 0px 350px 15px 350px;
+}
+
+.img-instra {
+    justify-content: space-between;
+    display: flex;
+    padding: 0px 150px;
+    margin-bottom: 50px;
+
+}
+
+.img-design {
+    width: 200px;
+    height: 250px;
+    margin-left: 20px;
+    /* margin-top: 0px; */
+}
+
+/* 6th */
+.background {
+    background-image: url('../flower Asset/Rectangle\ 9.png');
+    width: 1200px;
+    height: 300px;
+    text-align: center;
+}
+
+.lets-detail {
+    color: #272727;
+    text-align: center;
+    font-size: 40px;
+    /* font-weight: 800; */
+    padding-top: 80px;
+}
+
+.some {
+    color: rgba(39, 39, 39, 0.60);
+    text-align: center;
+    font-size: 18px;
+    font-weight: 400;
+    line-height: 30px;
+    /* margin-bottom: 500px; */
+}
+
+.but {
+    width: 500px;
+    height: 35px;
+    flex-shrink: 0;
+}
+/* 7th */
+footer{ 
+    background: #111010; 
+    padding: 40px 90px; 
+} 
+ 
+.foot-sec{ 
+text-align: center; 
+} 
+ 
+.foo-tile{ 
+    color: #E55473; 
+    font-size: 30px; 
+    font-weight: 800; 
+    line-height: normal; 
+} 
+ 
+.shop-style{ 
+    color: #FFF; 
+    font-style: normal; 
+    font-weight: 800; 
+    line-height: normal; 
+} 
+ 
+.discip{ 
+    color: rgba(255, 255, 255, 0.90); 
+    font-size: 9px; 
+    font-weight: 300; 
+    line-height: 15px; 
+    width:350px; 
+    margin:auto; 
+} 
+ 
+.com{ 
+    color: rgba(255, 255, 255, 0.40); 
+    font-size: 10px; 
 }
