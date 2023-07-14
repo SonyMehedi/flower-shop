@@ -279,3 +279,11 @@ text-align: center;
     color: rgba(255, 255, 255, 0.40); 
     font-size: 10px; 
 }
+.i-vdo{
+    height: 400px;
+    width: 700px;
+    /* margin: 300px; */
+}
+.side-de{
+    padding-left: 150px;
+}
